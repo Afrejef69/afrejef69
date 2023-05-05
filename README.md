@@ -10,8 +10,8 @@
 <li>Postgresql</li>
 </ul>
 <h2>Languages</h2>
-<span>English<span><br>
-<span>Level: reading and writing</span>
+<h3>English Level:</h3><br />
+<span>reading and writing</span>
 <h2>Studies</h2>
 <span>Diversified level graduate: IEA - Bachillerato en Ciencias y Letras con Orientación a Medicina<span><br>
 <span>College career: URL - 9no ciclo Licenciatura en Ingeniería en Informática y Sistemas</span>
