@@ -27,11 +27,16 @@
 - **LinkedIn:** [My Profile](https://www.linkedin.com/in/jeffrey-reyes-70367017b/)
 
 ## GitHub Activity
-![Afrejef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afrejef69&theme=dark&show&count_private=true_icons=true)
+![Afrejef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afrejef69&theme=dark&count&private=true&show_icons=true)
 
 ## Lenguages Used In The Year
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afrejef69&layout=compact)](https://github.com/Afrejef69/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afrejef69&layout=compact&theme=dark)](https://github.com/Afrejef69/github-readme-stats)
 
+## GitHub Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Afrejef69&theme=github-dark-blue&locale=es)](https://github.com/Afrejef69)
+
+## GitHub Trophys
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Afrejef69&theme=onestar)](https://github.com/Afrejef69)
 
 <!--
 **Afrejef69/afrejef69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
