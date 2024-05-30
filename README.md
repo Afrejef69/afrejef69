@@ -20,7 +20,7 @@
 - **College career:** URL - Undecimo ciclo Licenciatura en Ingeniería en Informática y Sistemas
 
 ## My Personal Portafoloio
-- You can view my personal portfolio, which showcases my projects and skills, [here](https://frontend-briefcase.vercel.app/education-professional).
+- You can view my personal portfolio, which showcases my projects and skills, [here](https://frontend-briefcase.vercel.app).
 
 ## Contact
 - **Email:** [pxndxjeffrey.jr@gmail.com](mailto:pxndxjeffrey.jr@gmail.com)
