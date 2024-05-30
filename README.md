@@ -1,4 +1,4 @@
-# Programming Languages and Skills
+# Programming Knowledge
 
 | Programming Languages | Frameworks            | Databases               | Tools             |
 |-----------------------|-----------------------|-------------------------|-------------------|
