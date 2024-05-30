@@ -27,7 +27,7 @@
 - **LinkedIn:** [My Profile](https://www.linkedin.com/in/jeffrey-reyes-70367017b/)
 
 ## GitHub Activity
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afrejef69&theme=dark&show_icons=true)
+![Afrejef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afrejef69&theme=dark&show&count_private=true_icons=true)
 
 ## Lenguages Used In The Year
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afrejef69&layout=compact)](https://github.com/Afrejef69/github-readme-stats)
