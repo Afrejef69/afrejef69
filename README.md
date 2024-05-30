@@ -1,20 +1,13 @@
 # Programming Languages and Skills
 
-## Programming Languages
-- **Python** ![Python](https://img.shields.io/badge/-75%25-blue)
-- **HTML** ![HTML](https://img.shields.io/badge/-90%25-orange)
-- **Java** ![Java](https://img.shields.io/badge/-60%25-red)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/-65%25-yellow)
-- **CSS** ![CSS](https://img.shields.io/badge/-95%25-blue)
-- **TypeScript** ![TS](https://img.shields.io/badge/-90%25-skyblue)
-
-## Frameworks
-- **React** ![React](https://img.shields.io/badge/-80%25-blueviolet)
-- **Node** ![React](https://img.shields.io/badge/-90%25-green)
-
-## Databases
-- **MySQL** ![MySQL](https://img.shields.io/badge/-85%25-blue)
-- **PostgreSQL** ![PostgreSQL](https://img.shields.io/badge/-85%25-forestgreen)
+| Programming Languages | Frameworks            | Databases               | Tools             |
+|-----------------------|-----------------------|-------------------------|-------------------|
+| **Python** ![Python](https://img.shields.io/badge/-75%25-blue) | **React** ![React](https://img.shields.io/badge/-80%25-blueviolet) | **MySQL** ![MySQL](https://img.shields.io/badge/-85%25-blue) | **Git** ![Git](https://img.shields.io/badge/-80%25-yellow) |
+| **HTML** ![HTML](https://img.shields.io/badge/-90%25-orange) | **Node** ![Node](https://img.shields.io/badge/-90%25-green) | **PostgreSQL** ![PostgreSQL](https://img.shields.io/badge/-85%25-forestgreen) | **Docker** ![Docker](https://img.shields.io/badge/-90%25-navy) |
+| **Java** ![Java](https://img.shields.io/badge/-60%25-red) |                       | **Firebase** ![Firebase](https://img.shields.io/badge/-60%25-orange) | **Jira** ![Jira](https://img.shields.io/badge/-90%25-skyblue) |
+| **JavaScript** ![JavaScript](https://img.shields.io/badge/-65%25-yellow) |                       | **MongoDB** ![Mongodb](https://img.shields.io/badge/-65%25-nature) | **VS Code** ![Vs](https://img.shields.io/badge/-90%25-blue) |
+| **CSS** ![CSS](https://img.shields.io/badge/-95%25-blue) |                       |                         | **JetBrains** ![JB](https://img.shields.io/badge/-95%25-black) |
+| **TypeScript** ![TypeScript](https://img.shields.io/badge/-90%25-skyblue) |                       |                         |                   |
 
 ## Languages
 ### English Level:
